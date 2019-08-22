@@ -1,0 +1,23 @@
+{
+  "name": "requireresolve",
+  "version": "0.0.1",
+  "description": "require.resolve as a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/requireresolve.git"
+  },
+  "keywords": [
+    "require",
+    "resolve"
+  ],
+  "author": "Alasdair McLeay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penx/requireresolve/issues"
+  },
+  "homepage": "https://github.com/penx/requireresolve#readme"
+}
